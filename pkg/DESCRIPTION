@@ -1,6 +1,6 @@
 Package: evir
 Version: 1.7-4
-Date: 2014-05-17
+Date: 2018-03-19
 Title: Extreme Values in R
 Authors@R: c(person("Bernhard", "Pfaff", email = "bernhard@pfaffikus.de", role = c("aut", "cre")), person("Eric", "Zivot", email = "ezivot@u.washington.edu", role = "ctb"), person("Alexander", "McNeil", email = "mcneil@math.ethz.ch", role = "aut", comment = "S original (EVIS)"), person("Alec", "Stephenson", email = "alec_stephenson@hotmail.com", role = "trl", comment = "R port of EVIS"))
 Depends: stats
